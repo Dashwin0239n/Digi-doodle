@@ -1,0 +1,13 @@
+.border1{
+    border: 20px solid yellow;
+    background-color: yellowgreen;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20%;
+    border-radius: 10px;
+}
+#dnd-btn{
+    border: 4px solid yellow;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
